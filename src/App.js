@@ -5,6 +5,7 @@ import {
   Hits,
   SearchBox,
   Pagination,
+  Highlight,
 } from 'react-instantsearch-dom';
 import PropTypes from 'prop-types';
 import './App.css';
@@ -77,12 +78,28 @@ function App() {
 }
 
 function Hit(props) {
-  const hit = props.hit;
   return (
     <div>
-      <div>TITLE : {hit.product_name}</div>
-      <div>DESC : {hit.product_desc_id}</div>
-      <div>REGISTERED: {hit.expired_date}</div>
+      <div>
+        <span style={{ fontSize: '0.8rem', display: 'block' }}>Title</span>
+        <span style={{ paddingBottom: '10px', display: 'block' }}>
+          <Highlight hit={props.hit} attribute={'product_name'}></Highlight>
+        </span>
+      </div>
+      <div>
+        <span style={{ fontSize: '0.8rem', display: 'block' }}>
+          Description
+        </span>
+        <span style={{ paddingBottom: '10px', display: 'block' }}>
+          <Highlight hit={props.hit} attribute={'product_desc_id'}></Highlight>
+        </span>
+      </div>
+      <div>
+        <span style={{ fontSize: '0.8rem', display: 'block' }}>Published</span>
+        <span style={{ paddingBottom: '10px', display: 'block' }}>
+          <Highlight hit={props.hit} attribute={'published_date'}></Highlight>
+        </span>
+      </div>
     </div>
   );
 }
