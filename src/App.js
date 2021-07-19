@@ -63,7 +63,10 @@ function App() {
             <a href="https://trustmedis.com">trustmedis</a>
           </p>
           <p>
-            <a href="#" className="href">
+            <a
+              href="https://github.com/trustmedis/alkes-api-public/GUIDELINES.md"
+              className="href"
+            >
               Documentation
             </a>
           </p>
@@ -77,9 +80,9 @@ function Hit(props) {
   const hit = props.hit;
   return (
     <div>
-      <div>{hit.product_name}</div>
-      <div>{hit.product_desc_id}</div>
-      <div>{hit.expired_date}</div>
+      <div>TITLE : {hit.product_name}</div>
+      <div>DESC : {hit.product_desc_id}</div>
+      <div>REGISTERED: {hit.expired_date}</div>
     </div>
   );
 }
