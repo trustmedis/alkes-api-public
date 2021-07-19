@@ -1,13 +1,13 @@
 {
-  "main.css": "/alkes-api-public/static/css/main.fcfc65ec.chunk.css",
-  "main.js": "/alkes-api-public/static/js/main.22afdcd9.chunk.js",
-  "main.js.map": "/alkes-api-public/static/js/main.22afdcd9.chunk.js.map",
-  "static/js/1.3498adde.chunk.js": "/alkes-api-public/static/js/1.3498adde.chunk.js",
-  "static/js/1.3498adde.chunk.js.map": "/alkes-api-public/static/js/1.3498adde.chunk.js.map",
+  "main.css": "/alkes-api-public/static/css/main.06770c61.chunk.css",
+  "main.js": "/alkes-api-public/static/js/main.48e72b36.chunk.js",
+  "main.js.map": "/alkes-api-public/static/js/main.48e72b36.chunk.js.map",
+  "static/js/1.21d84d4a.chunk.js": "/alkes-api-public/static/js/1.21d84d4a.chunk.js",
+  "static/js/1.21d84d4a.chunk.js.map": "/alkes-api-public/static/js/1.21d84d4a.chunk.js.map",
   "runtime~main.js": "/alkes-api-public/static/js/runtime~main.65907d2d.js",
   "runtime~main.js.map": "/alkes-api-public/static/js/runtime~main.65907d2d.js.map",
-  "static/css/main.fcfc65ec.chunk.css.map": "/alkes-api-public/static/css/main.fcfc65ec.chunk.css.map",
+  "static/css/main.06770c61.chunk.css.map": "/alkes-api-public/static/css/main.06770c61.chunk.css.map",
   "index.html": "/alkes-api-public/index.html",
-  "precache-manifest.1bf9b4576106dfe347b524a59bafa2c9.js": "/alkes-api-public/precache-manifest.1bf9b4576106dfe347b524a59bafa2c9.js",
+  "precache-manifest.6fffe63c92e33b07881fdf2a5cabc61a.js": "/alkes-api-public/precache-manifest.6fffe63c92e33b07881fdf2a5cabc61a.js",
   "service-worker.js": "/alkes-api-public/service-worker.js"
 }
