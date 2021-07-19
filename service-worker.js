@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "trustmedis.github.io/alkes-api-public/precache-manifest.5575f59ecd0123d945d20f83e8c54aff.js"
+  "/alkes-api-public/precache-manifest.b647018eb6b670f984ae0e805c17f60c.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("trustmedis.github.io/alkes-api-public/index.html", {
+workbox.routing.registerNavigationRoute("/alkes-api-public/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
