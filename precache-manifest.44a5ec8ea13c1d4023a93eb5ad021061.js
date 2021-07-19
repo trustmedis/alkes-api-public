@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "86c8abe5817576117709",
+    "revision": "2b66a99ca88057133473",
     "url": "/alkes-api-public/static/css/main.fcfc65ec.chunk.css"
   },
   {
-    "revision": "86c8abe5817576117709",
-    "url": "/alkes-api-public/static/js/main.86c8abe5.chunk.js"
+    "revision": "2b66a99ca88057133473",
+    "url": "/alkes-api-public/static/js/main.2b66a99c.chunk.js"
   },
   {
     "revision": "3498adde47a3c223e8aa",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/alkes-api-public/static/js/runtime~main.65907d2d.js"
   },
   {
-    "revision": "cadb76be2ff5399389721c473e84c147",
+    "revision": "9895386e24412fdf79118e8bd2abfd6f",
     "url": "/alkes-api-public/index.html"
   }
 ];
