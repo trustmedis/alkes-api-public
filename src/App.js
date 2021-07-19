@@ -64,7 +64,7 @@ function App() {
           </p>
           <p>
             <a
-              href="https://github.com/trustmedis/alkes-api-public/GUIDELINES.md"
+              href="https://github.com/trustmedis/alkes-api-public/blob/master/GUIDELINES.md"
               className="href"
             >
               Documentation
