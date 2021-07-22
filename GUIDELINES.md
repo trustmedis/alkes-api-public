@@ -116,7 +116,7 @@ For any technical difficulties please write an issue or reach out at engineering
 <details>
 <summary>Click here</summary>
 <pre>
-HOST            : https://alkes-api.trustmedis.id <br>
+HOST            : https://public-api.trustmedis.id <br>
 Typesense Key   : sBs7trzmQ07tWNzqmhnJpotvFHgsw7Df
 </pre>
 </details>

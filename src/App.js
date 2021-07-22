@@ -15,7 +15,7 @@ const typesenseInstantsearchAdapter = new TypesenseInstantSearchAdapter({
     apiKey: process.env.REACT_APP_TYPESENSE_KEY, // Be sure to use the search-only-api-key
     nodes: [
       {
-        host: 'alkes-api.trustmedis.id',
+        host: 'public-api.trustmedis.id',
         port: '443',
         protocol: 'https',
       },
