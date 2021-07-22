@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/alkes-api-public/precache-manifest.6fffe63c92e33b07881fdf2a5cabc61a.js"
+  "/alkes-api-public/precache-manifest.753aaf8109028b532e30b2fb7182ba2d.js"
 );
 
 workbox.clientsClaim();
